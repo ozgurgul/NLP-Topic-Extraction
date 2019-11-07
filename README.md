@@ -28,6 +28,10 @@ And install mglearn (Helper functions for the book 'Introduction to machine lear
 pip install mglearn
 ```
 
+Python library for interactive topic model visualization
+```
+pip install pyLDAvis
+```
 End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
