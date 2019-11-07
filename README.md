@@ -23,12 +23,11 @@ pip install pdfminer.six
 ```
 
 And install mglearn (Helper functions for the book 'Introduction to machine learning with Python')
-
 ```
 pip install mglearn
 ```
 
-Python library for interactive topic model visualization
+Python library for interactive topic model visualization (_3-clause BSD License_)
 ```
 pip install pyLDAvis
 ```
@@ -53,3 +52,6 @@ Explain what these tests test and why
 ```
 Give an example
 ```
+
+### Acknowledgement
+
