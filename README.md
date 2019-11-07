@@ -22,10 +22,10 @@ Install PDFMINER package
 pip install pdfminer.six
 ```
 
-And repeat
+And install mglearn (Helper functions for the book 'Introduction to machine learning with Python')
 
 ```
-until finished
+pip install mglearn
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
